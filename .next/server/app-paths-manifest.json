@@ -1,0 +1,13 @@
+{
+  "/api/auth/check-setup/route": "app/api/auth/check-setup/route.js",
+  "/page": "app/page.js",
+  "/api/auth/login/route": "app/api/auth/login/route.js",
+  "/api/stats/route": "app/api/stats/route.js",
+  "/api/services/route": "app/api/services/route.js",
+  "/api/applicants/route": "app/api/applicants/route.js",
+  "/api/careers/route": "app/api/careers/route.js",
+  "/api/leads/route": "app/api/leads/route.js",
+  "/api/clients/route": "app/api/clients/route.js",
+  "/api/blogs/route": "app/api/blogs/route.js",
+  "/api/settings/route": "app/api/settings/route.js"
+}
